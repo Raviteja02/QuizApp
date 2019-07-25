@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>UserPage</title>
+</head>
+<body>
+<h1>Welcome to QuizApp</h1>
+{% if user.is_authenticated %}
+<h2>hello ,{{user.username}}</h2>
+<a href="accounts/logout">LogOut</a>
+{% for Question in Questions %}
+<h3>{{ Question.id }}.{{ Question.question }}</h3>
+{% endfor %}
+{% else %}
+<h2>You have to login,<a href="/accounts/login/">Click Here</a></h2>
+{% endif %}
+</body>
+</html>
