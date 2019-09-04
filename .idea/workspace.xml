@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53c2b81e-c6f2-4c0f-b53d-471fc7c16e25" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/QuizApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Django_Lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LoginSignup/Users/templates/questiondetail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LoginSignup/Users/templates/questionlist.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginSignup/Admin/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginSignup/Admin/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginSignup/Admin/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginSignup/Admin/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginSignup/Admin/migrations/0002_auto_20190724_1232.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginSignup/Admin/migrations/0003_auto_20190724_1304.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginSignup/Admin/migrations/0004_auto_20190724_1319.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginSignup/Admin/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginSignup/Admin/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginSignup/Admin/templates/AdminPage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginSignup/Admin/templates/postquestion.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginSignup/Admin/templates/viewquestions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginSignup/Admin/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginSignup/Admin/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginSignup/Admin/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginSignup/LoginSignup/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/LoginSignup/LoginSignup/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginSignup/LoginSignup/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/LoginSignup/LoginSignup/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginSignup/Users/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/LoginSignup/Users/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginSignup/Users/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/LoginSignup/Users/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginSignup/Users/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/LoginSignup/Users/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginSignup/Users/migrations/0002_auto_20190724_1319.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginSignup/Users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/LoginSignup/Users/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginSignup/Users/refence.py" beforeDir="false" afterPath="$PROJECT_DIR$/LoginSignup/Users/refence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginSignup/Users/templates/registration/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/LoginSignup/Users/templates/registration/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginSignup/Users/templates/userpage.html" beforeDir="false" afterPath="$PROJECT_DIR$/LoginSignup/Users/templates/userpage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginSignup/Users/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/LoginSignup/Users/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginSignup/Users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/LoginSignup/Users/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginSignup/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/LoginSignup/db.sqlite3" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LoginSignup/Users/templates/questionlist.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="71" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LoginSignup/Users/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LoginSignup/Users/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="485">
+              <caret line="211" lean-forward="true" selection-start-line="211" selection-end-line="211" />
+              <folding>
+                <element signature="e#0#65#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LoginSignup/Users/templates/questiondetail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LoginSignup/Users/templates/editquestion.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-563" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LoginSignup/Users/templates/quiz.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="38" column="51" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LoginSignup/Users/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/LoginSignup/Users/urls.py" />
+        <option value="$PROJECT_DIR$/LoginSignup/Users/templates/questionlist.html" />
+        <option value="$PROJECT_DIR$/LoginSignup/Users/views.py" />
+        <option value="$PROJECT_DIR$/LoginSignup/Users/templates/questiondetail.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="793" />
+    <option name="width" value="814" />
+    <option name="height" value="907" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="QuizApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QuizApp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QuizApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QuizApp" type="462c0819:PsiDirectoryNode" />
+              <item name="LoginSignup" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QuizApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QuizApp" type="462c0819:PsiDirectoryNode" />
+              <item name="LoginSignup" type="462c0819:PsiDirectoryNode" />
+              <item name="Users" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QuizApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QuizApp" type="462c0819:PsiDirectoryNode" />
+              <item name="LoginSignup" type="462c0819:PsiDirectoryNode" />
+              <item name="Users" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QuizApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QuizApp" type="462c0819:PsiDirectoryNode" />
+              <item name="myenv" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53c2b81e-c6f2-4c0f-b53d-471fc7c16e25" name="Default Changelist" comment="" />
+      <created>1565328674432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565328674432</updated>
+      <workItem from="1565328681091" duration="2751000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2751000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="916" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17287917" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32950193" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/LoginSignup/Users/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoginSignup/Users/templates/questionlist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="71" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoginSignup/Users/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoginSignup/Users/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="211" lean-forward="true" selection-start-line="211" selection-end-line="211" />
+          <folding>
+            <element signature="e#0#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoginSignup/Users/templates/editquestion.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-563" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoginSignup/Users/templates/quiz.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="38" column="51" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoginSignup/Users/templates/questiondetail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

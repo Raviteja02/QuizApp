@@ -23,6 +23,14 @@
     <div class="card offset-md-4 offset-sm-1 my-5 mt-5" style="max-width: 35rem;">
     <div class="card-header text-center light-blue darken-3 white-text ">
     <h4 class="card-title">Login To QuizApp</h4>
+    {% if messages %}
+                {% for msg in messages %}
+                    <div class="alert alert-info alert-dismissable">
+                    <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+                    {{msg.message}}
+                    </div>
+                {% endfor %}
+            {% endif %}
   <div class="form-group m-4">
     <h5>Username:   {{ form.username }} </h5>
   </div>
@@ -33,6 +41,7 @@
   <h6>New User...? <a href="/register" class="btn btn-danger">Register</a></h6>
 </div>
 </form>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script type="text/javascript" src="{% static 'js/bootstrap.min.js' %}" ></script>
 </body>
 </html>

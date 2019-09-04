@@ -20,6 +20,5 @@ admin.site.site_header = 'Quiz Application'
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('',include('Users.urls')),
-    path('Admin/',include('Admin.urls')),
     path('accounts/',include('django.contrib.auth.urls')),
 ]

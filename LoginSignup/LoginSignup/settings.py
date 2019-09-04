@@ -38,8 +38,9 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'Users',
-    'Admin',
     'crispy_forms',
+    'timezone_field',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
@@ -127,10 +128,11 @@ STATICFILES_DIRS = [
     '/static/',
 ]
 
-LOGIN_REDIRECT_URL = 'userpage'
+LOGIN_REDIRECT_URL = 'userauthentication'
 
 LOGOUT_REDIRECT_URL = '/'
 
 AUTH_USER_MODEL = 'Users.QuizAppUser'
+
 
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
